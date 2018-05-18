@@ -2,3 +2,7 @@
 max-width: 40rem;
 margin: auto;
 }
+
+.p{
+  color: hsla(25, 100%, 40%, 0.9);
+}
