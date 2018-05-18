@@ -11,6 +11,10 @@ margin: auto;
   color: hsla(210, 100%, 32%, 0.95);
 }
 
+.nah{
+  display: none;
+}
+
 cite:before{
   content: ' - ';
 }
