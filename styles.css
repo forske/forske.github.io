@@ -10,3 +10,7 @@ margin: auto;
 cite:before{
   content: ' - ';
 }
+
+#curve{
+  fill: transparent;
+}
