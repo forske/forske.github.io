@@ -19,6 +19,7 @@ margin: auto;
 a:hover + .nah{
   color: hsla(0,0%,0%, 1);
   background-color: hsla(55, 100%, 63%, 1);
+  text-align: right;
 }
 
 cite:before{
