@@ -7,6 +7,10 @@ margin: auto;
   color: hsla(25, 100%, 40%, 0.9);
 }
 
+.h{
+  color: hsla(210, 100%, 32%, 0.95);
+}
+
 cite:before{
   content: ' - ';
 }
