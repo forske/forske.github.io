@@ -12,7 +12,13 @@ margin: auto;
 }
 
 .nah{
-  display: none;
+  color: transparent;
+  background-color: transparent;
+}
+
+a:hover + .nah{
+  color: hsla(0,0%,0%, 1);
+  background-color: hsla(55, 100%, 63%, 1);
 }
 
 cite:before{
